@@ -10,7 +10,7 @@ export default function Conditions() {
   return (
     <div
       style={{
-        backgroundImage: `url(${background})`,
+        backgroundImage: `url('/images/heroes/hero3.jpg')`,
         backgroundSize: "cover",
         backgroundPosition: "center",
         width: "100vw",

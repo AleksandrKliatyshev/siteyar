@@ -10,7 +10,7 @@ export default function Calendar() {
   return (
     <div
       style={{
-        backgroundImage: `url(${background})`,
+        backgroundImage: `url('/images/heroes/hero2.jpg')`,
         backgroundSize: "cover",
         backgroundPosition: "center",
         width: "100vw",

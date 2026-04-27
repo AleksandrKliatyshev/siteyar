@@ -10,7 +10,7 @@ export default function Contacts() {
   return (
     <div
       style={{
-        backgroundImage: `url(${background})`,
+        backgroundImage: `url('/images/heroes/hero4.jpeg')`,
         backgroundSize: "cover",
         backgroundPosition: "center",
         width: "100vw",
